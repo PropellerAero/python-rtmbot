@@ -1,3 +1,11 @@
+whybot
+======
+A Slack bot based on Slack's basic RTM pythong app that asks you Why?. It does it up to five times within five minutes.
+
+Propeller uses this in our internal #fuckups slack channel where we keep track of and analyse our mistakes.
+
+Inspired by Sakichi Toyota's Five Whys and [Aaron Swartz's post on the value of documenting mistakes](http://www.aaronsw.com/weblog/geremiah).
+
 python-rtmbot
 =============
 A Slack bot written in python that connects via the RTM API.
